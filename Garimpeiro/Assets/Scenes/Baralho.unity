@@ -285,12 +285,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ba3cce7cc8ae244aadd7f55388f885a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startFaceUp: 1
+  startFaceUp: 0
   prefabCarta: {fileID: 1751989842}
   prefabSprite: {fileID: 5172352149903853309}
   nomesCartas: []
   cartasBaralho: []
-  pivoBaralho: {fileID: 0}
+  pivoBaralho: {fileID: 146074340}
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
